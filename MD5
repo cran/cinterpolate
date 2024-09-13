@@ -1,12 +1,12 @@
-efe653cdbc309ee10438256bab67c3b6 *DESCRIPTION
-8b10d9dc982a138282c4405267a0a022 *LICENSE
+58324247a5b288aae0f661084fd743b3 *DESCRIPTION
+5956e296217dbdb58ae3857c476910a0 *LICENSE
 14a1d34bad7ca9145236f9bd2bb1c3f5 *NAMESPACE
 7adbff196a0275357b26ab81207ac46f *R/interpolate.R
 7c0f583d1edc95f4cead45375774b8dc *README.md
-57747ec46a848521138296d3c8b2731b *build/vignette.rds
+f140eb546c2957394de5159e44bf9687 *build/vignette.rds
 53bfefff9af33f4f3c25ac09fa40668a *inst/doc/cinterpolate.R
 a12e33b8867e2f53715ea8dec6ddf77f *inst/doc/cinterpolate.Rmd
-1f3b056de74fc341e7322f1dcdcdda3b *inst/doc/cinterpolate.html
+ced03e7149dd69f11195e36816833245 *inst/doc/cinterpolate.html
 432badb9602cf1542a403854150757d7 *inst/example/DESCRIPTION
 a40d92236ebecb0f69f58b3f5d5c729b *inst/example/NAMESPACE
 db22f4c1022867d548bab007a92ffa8a *inst/example/src/testing.c
@@ -18,7 +18,7 @@ dc99006dc08d55cab107233ddab7a24a *inst/include/cinterpolate/cinterpolate.c
 40eaf8dbb73508194e58e7dae9d637ee *src/Makevars
 b79f1f524f731df499d28875745e1ff7 *src/interface.c
 9fe271e2cf3b84e610346dbc4259fa1b *src/interface.h
-1a42da9d0c7f462391495814b337c3c3 *src/interpolate.c
+242ff769f61395fbc747983569df1a52 *src/interpolate.c
 3cf7b4a286d4c8433df9cbdbcd089b99 *src/interpolate.h
 2212a70d4e2b2e40f0fc559e1ee8e758 *tests/testthat.R
 de5da407e8962138e5cf373916da572b *tests/testthat/helper-cinterpolate.R
